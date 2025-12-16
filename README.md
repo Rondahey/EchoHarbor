@@ -68,7 +68,9 @@ MIT License
 ## Author
 
 GitHub: https://github.com/Rondahey
+
 Public contact (email): neater-caustic.0j@icloud.com
+
 Public contact (X): https://x.com//medonader2002
 
 ## References
@@ -94,14 +96,14 @@ Deployment and verification:
 - https://sepolia.basescan.org/address/0x81466cb4df625e41957602ee4ca7d8fba344c19a 
 - https://sepolia.basescan.org/0x81466cb4df625e41957602ee4ca7d8fba344c19a /0#code  
 
-Contract #2 address (optional):  
+Contract #2 address:  
 0x201f4a7776c719545fb4fad48876e9c7ae413fa0
 
 Deployment and verification:
 - https://sepolia.basescan.org/address/0x201f4a7776c719545fb4fad48876e9c7ae413fa0
 - https://sepolia.basescan.org/0x201f4a7776c719545fb4fad48876e9c7ae413fa0/0#code  
 
-Contract #3 address (optional):  
+Contract #3 address:  
 0x2bff962343a9094f6021535311f6436059677a33
 
 Deployment and verification:
